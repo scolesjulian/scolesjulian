@@ -2,10 +2,11 @@
 Mi nombre es Julian Scoles y agradezco que estés aquí!
 
 Soy un desarrollador web Full Stack Trainee.
+Tengo experiencia en trabajo en grupo, aplicando metodologias agiles y buenas practicas.
 
-🔭 Actualmente estoy trabajando en proyectos por mi cuenta y en colaboracion con otros proyectos.
+🔭 Actualmente estoy trabajando en proyectos por mi cuenta,
 
-🌱 Actualmente estoy aprendiendo Node js...
+🌱  aprendiendo Node js...
 
 👯Busco colaborar en diferentes proyectos que me reten a seguir mejorando. Aprendo rápido ya que me motiva mucho aprender tecnologías tanto de front-end como de back-end.
 
@@ -16,14 +17,10 @@ Soy un desarrollador web Full Stack Trainee.
 
 🙈Acerca de mí: Me encanta programar y aprender nuevas tecnologías. Me permite desafiarme día a día creando nuevos proyectos para practicar todo lo que he aprendido.
 
-Me encantaria conseguir mi primer trabajo, estoy muy predispuesto a seguir aprendiendo y siempre trato de aportar mis conocimientos para ayudar a quien me necesite.
+Me encantaria conseguir mi primer trabajo, para aportar mis conocimientos a quien me solicite.
 
 
-Mi portafolio:
 
-💣Proyecto final del curso en la Academia Egg, Vegapp (pagina web para veganos)
-💣Calculadora
-💣Pagina web Libreria
 
 Conectate conmigo:
 https://www.linkedin.com/in/julian-scoles/
@@ -34,6 +31,6 @@ Desarrollador web Full Stack
 
 Reacciona
 Idiomas y herramientas:
-Java/Spring/MySql/Github/Git/HTML/CSS/JS/Bootstrap/Trello/Figma
+Java/Spring/MySql/Github/Git/HTML/CSS/JS/Bootstrap/Trello/Figma/NodeJs
 
 
