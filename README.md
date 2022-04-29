@@ -15,9 +15,8 @@ Tengo experiencia en trabajo en grupo, aplicando metodologias agiles y buenas pr
 
 
 
-🙈Acerca de mí: Me encanta programar y aprender nuevas tecnologías. Me permite desafiarme día a día creando nuevos proyectos para practicar todo lo que he aprendido.
+🙈Acerca de mí: Me encanta programar y aprender nuevas tecnologías. Me permite desafiarme día a día creando nuevos proyectos para practicar todo lo que he aprendido. 
 
-Me encantaria conseguir mi primer trabajo, para aportar mis conocimientos a quien me solicite.
 
 
 
@@ -31,6 +30,6 @@ Desarrollador web Full Stack
 
 Reacciona
 Idiomas y herramientas:
-Java/Spring/MySql/Github/Git/HTML/CSS/JS/Bootstrap/Trello/Figma/NodeJs
+Java/Spring/MySql/Github/Git/HTML/CSS/JS/Bootstrap/Trello/Figma/NodeJs/Express
 
 
