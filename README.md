@@ -22,7 +22,7 @@ Tengo experiencia en trabajo en grupo, aplicando metodologias agiles y buenas pr
 
 
 Conectate conmigo:
-https://www.linkedin.com/in/julian-scoles/
+https://github.com/scolesjulian
 
 
 Certificado Academia Egg
@@ -30,6 +30,6 @@ Desarrollador web Full Stack
 
 Reacciona
 Idiomas y herramientas:
-Java/Spring/MySql/Github/Git/HTML/CSS/JS/Bootstrap/Trello/Figma/NodeJs/Express
+Java/Spring Boot/MySql/Github/Git/HTML/CSS/Javascript/Bootstrap/Trello/Figma/NodeJs/Express
 
 
