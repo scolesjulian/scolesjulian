@@ -18,10 +18,6 @@ Tengo experiencia en trabajo en grupo, aplicando metodologias agiles y buenas pr
 
 
 
-Conectate conmigo:
-https://github.com/scolesjulian
-
-
 Certificado Academia Egg
 Desarrollador web Full Stack
 
