@@ -4,9 +4,6 @@ Mi nombre es Julian Scoles y agradezco que estés aquí!
 Soy un desarrollador web Full Stack Trainee.
 Tengo experiencia en trabajo en grupo, aplicando metodologias agiles y buenas practicas.
 
-🔭 Actualmente estoy trabajando en proyectos por mi cuenta,
-
-🌱  aprendiendo Node js...
 
 👯Busco colaborar en diferentes proyectos que me reten a seguir mejorando. Aprendo rápido ya que me motiva mucho aprender tecnologías tanto de front-end como de back-end.
 
