@@ -1,7 +1,7 @@
 
 Mi nombre es Julian Scoles y agradezco que estés aquí!
 
-Soy un desarrollador web Full Stack Trainee.
+Soy un desarrollador web Full Stack.
 Tengo experiencia en trabajo en grupo, aplicando metodologias agiles y buenas practicas.
 
 
@@ -23,6 +23,6 @@ Desarrollador web Full Stack
 
 Reacciona
 Idiomas y herramientas:
-Java/Spring Boot/MySql/Github/Git/HTML/CSS/Javascript/Bootstrap/Trello/Figma/NodeJs/Express
+Java/Spring Boot/Javascript/ ReactJs/ ReactNative/ Typescript/MySql/Github/Git/HTML/CSS/Javascript/Bootstrap/Trello/Figma/NodeJs/Express
 
 
